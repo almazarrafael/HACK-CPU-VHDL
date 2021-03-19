@@ -27,6 +27,7 @@ I've always been interested in the intricacies that goes within a computer archi
 Microprocessor RTL Diagram
 ![Microprocessor RTL Diagram](https://raw.githubusercontent.com/almazarrafael/HACK-CPU-VHDL/main/RTL.png?token=ALHDSCRY6Y2UGEPKZR4RCGTALZMZW)
 
+Expanded Microprocessor RTL Diagram
 ![Expanded](https://cdn.discordapp.com/attachments/805262594578448434/822590107533574174/unknown.png)
 
 ## resources
